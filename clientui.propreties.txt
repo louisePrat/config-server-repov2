@@ -1,3 +1,0 @@
-server.port:9090
-#Ribbon
-microservice-vol.ribbon.listOfServers=localhost:9093, localhost:9094,localhost:9095
